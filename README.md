@@ -2,19 +2,6 @@
 
 <p><em>Oh, and I'm also a Web Development Fellow at <a href="https://www.theknowledgehouse.org/about/">The Knowledge House</a>, and part-time college student. </em></p>
 
-```javascript
-const shafee = {
-  age: 24,
-  motto: "Learning never stops",
-  tools: {
-    daily: [HTML, CSS, JavaScript],
-    learning: React
-  },
-  interests: ['Coding', 'Weightlifting', 'Literature'],
-  funFact: 'I adopted pink as my personal branding color because of a band'
-}
-```
-
 ##### 2021 Learning:
 - ✔ HTML, CSS
 - ✔ Bootstrap + Tailwind
@@ -28,6 +15,17 @@ const shafee = {
 - Express
 - MongoDB
 - AWS Certified Cloud Practitioner
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
+    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
+    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
+    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
+    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" />
+</div>
+
+![Shafee's github stats](https://github-readme-stats.vercel.app/api?username=shafeeshafee&show_icons=true&theme=synthwave)
 
 ##### Socials:
   
