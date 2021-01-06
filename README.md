@@ -23,7 +23,7 @@
 - Node.js
 - Express
 - MongoDB
-- AWS Certified Cloud Practitioner
+- AWS Cloud Computing
 
 ![Shafee's github stats](https://github-readme-stats.vercel.app/api?username=shafeeshafee&show_icons=true&theme=synthwave)
 
