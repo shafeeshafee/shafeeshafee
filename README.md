@@ -1,5 +1,5 @@
 <img align='center' src="https://i.imgur.com/KPIbpUh.png" width="auto">
-
+<br>
 <div align="center">
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" />
 </div>
-
+<br>
 <p><em>Oh, and I'm also a Web Development Fellow at <a href="https://www.theknowledgehouse.org/about/">The Knowledge House</a>, and part-time college student. </em></p>
 
 ##### 2021 Learning:
