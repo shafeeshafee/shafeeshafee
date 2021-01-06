@@ -30,7 +30,7 @@ const shafee = {
 
 ##### Socials:
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/ShafSunbather?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ShafSunbather?style=social)](https://twitter.com/ShafSunbather)
 [![Linkedin: shafeelinks](https://img.shields.io/badge/-shafeelinks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shafeelinks/)](https://www.linkedin.com/in/shafeelinks/)
 [![Dev.to](https://img.shields.io/badge/DEV.to-Blogs-pink)](https://dev.to/shafeetkh)
 
