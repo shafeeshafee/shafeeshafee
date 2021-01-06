@@ -23,7 +23,7 @@ const shafee = {
 - ✔ JavaScript
 - ✔ APIs
 - ✔ Website Deployment
-- React 👈
+- 👉 React
 - React Native
 - Node.js
 - Express
