@@ -27,6 +27,7 @@ const shafee = {
 - Node.js
 - Express
 - MongoDB
+- AWS Certified Cloud Practitioner
 
 ##### Socials:
   
