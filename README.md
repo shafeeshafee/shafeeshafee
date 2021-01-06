@@ -6,7 +6,6 @@
 const shafee = {
   age: 24,
   motto: "Learning never stops",
-  programming: JavaScript,
   tools: {
     daily: [HTML, CSS, JavaScript],
     learning: React
