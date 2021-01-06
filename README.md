@@ -1,6 +1,6 @@
 <img align='center' src="https://i.imgur.com/KPIbpUh.png" width="auto">
 
-<p><em>Hey there. I'm a Web Development Fellow at <a href="https://www.theknowledgehouse.org/about/">The Knowledge House</a>, and part-time college student. </em></p>
+<p><em>Oh, and I'm also a Web Development Fellow at <a href="https://www.theknowledgehouse.org/about/">The Knowledge House</a>, and part-time college student. </em></p>
 
 ```javascript
 const shafee = {
