@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
 </div>
 <br>
-<p><em>Currently a coding fellow at a web develppment bootcamp, and part-time college student. </em></p>
+<p><em>Currently a coding fellow at a web development bootcamp, and part-time college student. </em></p>
 
 ##### 2021 Learning:
 - ✔ HTML, CSS
