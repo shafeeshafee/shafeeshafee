@@ -14,9 +14,8 @@
 <br>
 <p><em>Currently a coding fellow at a web development bootcamp, and part-time college student. </em></p>
 
-##### 2021 Learning:
 
-Currently learning:
+##### Currently learning:
 👉 React and Redux
 
 ![Shafee's github stats](https://github-readme-stats.vercel.app/api?username=shafeeshafee&show_icons=true&theme=synthwave)
