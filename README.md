@@ -16,7 +16,7 @@
 
 
 ##### Currently learning:
-👉 React and Redux
+👉 Redux & React Native
 
 ![Shafee's github stats](https://github-readme-stats.vercel.app/api?username=shafeeshafee&show_icons=true&theme=synthwave)
 
