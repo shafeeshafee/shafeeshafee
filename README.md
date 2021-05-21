@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
 </div>
 <br>
-<p><em>Currently a software engineering fellow at a web development bootcamp, and part-time college student. </em></p>
+<p><em>Currently a web development fellow at a coding bootcamp.</em></p>
 
 
 ##### Currently learning:
