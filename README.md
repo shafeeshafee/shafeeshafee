@@ -15,7 +15,7 @@
 
 
 ##### Currently learning:
-👉 Express and MongoDB
+👉 Authentication with Passport.js
 
 ![Shafee's github stats](https://github-readme-stats.vercel.app/api?username=shafeeshafee&show_icons=true&theme=synthwave)
 
