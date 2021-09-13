@@ -1,5 +1,5 @@
-[<img align='center' src="https://cdn.discordapp.com/attachments/746132622077591573/804222763866390548/Group_3.png" width="auto">](https://shafeeshafee.github.io/)
-
+<!-- [<img align='center' src="https://cdn.discordapp.com/attachments/746132622077591573/804222763866390548/Group_3.png" width="auto">](https://shafeeshafee.github.io/) -->
+[<img align='center' src="https://pa1.narvii.com/7508/12b31039b065f05ed8f78f80ad46b37d9f6bb11cr1-500-280_hq.gif" width="auto">](https://shafeeshafee.github.io/)
 
 <br>
 <div align="center">
