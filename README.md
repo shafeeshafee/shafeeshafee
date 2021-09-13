@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" />
 </div>
 <br>
-<p><em>Currently a cloud fellow at Google Developer Program.</em></p>
-
 
 ##### Currently learning:
 👉 Databases, Python, Docker, Google Cloud
