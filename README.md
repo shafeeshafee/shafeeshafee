@@ -8,9 +8,13 @@
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
     <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
-    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=E6892E" />
-    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=E6892E" />
-    <img src="https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=E6892E" />
+    <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoColor=f29111" />
+    <br />
+    <img src="https://img.shields.io/badge/-Google Cloud-000000?style=flat&logo=google&logoColor=4285F4" />
+    <img src="https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0" />
+    <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=0db7ed" />
+    <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=3970e4" />
+    <img src="https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=844FBA" />
 </div>
 <br>
 
