@@ -18,18 +18,6 @@
 </div>
 <br>
 
-
-![Shafee's github stats](https://github-readme-stats.vercel.app/api?username=shafeeshafee&show_icons=true&theme=synthwave)
-
-
-
-> “Life is a lot more fragile than we think. So you should treat others in a way that leaves no regrets. Fairly, and if possible, sincerely.”<br>
+> “<em>Life is a lot more fragile than we think. So you should treat others in a way that leaves no regrets. Fairly, and if possible, sincerely.</em>”<br>
 ― Haruki Murakami
-    
-    
-    
-
-##### Socials:
-
-[![Linkedin: shafeelinks](https://img.shields.io/badge/-shafeelinks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shafeelinks/)](https://www.linkedin.com/in/shafeelinks/)
 
