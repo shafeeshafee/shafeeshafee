@@ -2,13 +2,7 @@
 
 #### Developer with bold ideas and passionate about making the digital world safer. ❤️
 
-Currently I'm a **Cloud Infrastructure Engineering Fellow** at Kura Labs.
-
-<br />
-
-Worked in engineering roles at:
-- ClassPass, a wellness company. Acquired by Mindbody during my tenure.
-- Kusari, a cybersecurity startup focused on securing the software supply chain.
+Currently a **Cloud Infrastructure Engineering Fellow** at Kura Labs.
 
 ---
 
@@ -18,13 +12,11 @@ Worked in engineering roles at:
 
 ☁️ **Cloud:** AWS, Terraform, Docker, Kubernetes
 
-📊 **Data:** DataOps, SQL
-
 🔧 **Infrastructure:** VPC, Networking, Deployments
 
-🛠 **Tools:** Git, CI/CD, Monitoring, Linux, Log Management
+🛠 **Ops:** Git, CI/CD, Monitoring, Linux, Log Management
 
-🔐 **Security:** Offensive Security, Red Team Operations
+🔐 **Security:** Offensive & Defensive Security, Red Team Operations
 
 ---
 
