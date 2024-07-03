@@ -6,6 +6,11 @@
 
 Currently a **Cloud Infrastructure Engineering Fellow** at Kura Labs.
 
+<sub>Xfce is best!</sub>
+
+
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple) ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=GNU-Bash)
+
 ---
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shafeeshafee&theme=darkhub&column=7)
