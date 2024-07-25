@@ -4,9 +4,7 @@
 
 #### Developer with bold ideas and passionate about making the digital world safer. ❤️
 
-Currently a **Cloud Infrastructure Engineering Fellow** at Kura Labs.
-
-<sub>Xfce is best!</sub>
+Currently training in **Cloud Infrastructure Engineering Fellow** at Kura Labs.
 
 
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=Debian) + ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple) + ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=GNU-Bash)
