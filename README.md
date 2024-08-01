@@ -6,8 +6,7 @@
 
 Currently training in **Cloud Infrastructure Engineering Fellow** at Kura Labs.
 
-
-![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=Debian) + ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple) + ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=GNU-Bash)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple) + ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=GNU-Bash)
 
 ---
 
