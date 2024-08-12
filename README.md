@@ -11,3 +11,8 @@ Currently training as a **Cloud Infrastructure Engineering Fellow** at Kura Labs
 ---
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shafeeshafee&theme=darkhub&column=7)
+
+<br />
+<br />
+
+_"Maybe crazy is what they call anybody who’s got magic in them after they’re no longer a child." ― Robert R. McCammon_
