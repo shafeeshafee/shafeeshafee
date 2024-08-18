@@ -15,4 +15,4 @@ Currently training as a **Cloud Infrastructure Engineering Fellow** at Kura Labs
 <br />
 <br />
 
-_"Maybe crazy is what they call anybody who’s got magic in them after they’re no longer a child." ― Robert R. McCammon_
+_"Move slow and fix things."_ ― Kelsey Hightower
