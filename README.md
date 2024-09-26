@@ -5,7 +5,7 @@
 
 #### Software Engineer focusing on cybersecurity and DevOps, passionate about making the digital world safer. ❤️
 
-Currently training in DevOps, AWS, and automation at Kura Labs.
+Currently training in DevOps, AWS, cybersecurity, and automation at Kura Labs.
 
 ---
 
