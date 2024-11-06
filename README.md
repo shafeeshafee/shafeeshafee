@@ -1,6 +1,3 @@
-![shafee](https://github.com/user-attachments/assets/9ecc31d9-4d28-4a89-b5a1-81b7a9c4532b)
-
-
 ### Hello there 👋 - I'm [Shafee](https://shafee.vercel.app/)
 
 #### Software Engineer focusing on cybersecurity and DevOps, passionate about making the digital world safer. ❤️
@@ -8,14 +5,6 @@
 Currently training in DevOps, AWS, cybersecurity, and automation at Kura Labs.
 
 ---
-
-**Environment**
-
-
-![](https://img.shields.io/badge/OS-macOS-red?style=flat&logo=Apple)
-![](https://img.shields.io/badge/Editor-VSCode-red?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![](https://img.shields.io/badge/Vim-Motions-red?style=flat&logo=Vim)
-
 
 **Programming**
 
