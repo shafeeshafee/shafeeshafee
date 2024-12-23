@@ -36,10 +36,11 @@ I’m a **Software Engineer** driven by a mission to make the digital world safe
 
 **AI/ML (Learning in Progress)**  
 ![](https://img.shields.io/badge/OpenAI%20API-red?style=flat&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Ollama%20-red?style=flat&logo=ollama&logoColor=white)
 ![](https://img.shields.io/badge/LangChain-red?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Hugging%20Face-red?style=flat&logo=huggingface&logoColor=white)
-![](https://img.shields.io/badge/Azure%20ML-red?style=flat&logo=microsoftazure&logoColor=white)
-  
+![](https://img.shields.io/badge/Azure%20ML-red?style=flat&logo=microsoft-azure&logoColor=white)
+
 <br />
 
 ---
