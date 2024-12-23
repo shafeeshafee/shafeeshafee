@@ -1,6 +1,6 @@
 ### Hello there 👋 - I'm [Shafee](https://shafee.vercel.app/)
 
-> _"Move slow and fix things."_ — Kelsey Hightower
+> _"It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set."_ — Gandalf
 
 I’m a **Software Engineer** driven by a mission to make the digital world safer. I have experience in frontend, backend, DevOps, cybersecurity, and currently learning AI/ML engineering.  
 <br />
