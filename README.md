@@ -1,4 +1,4 @@
-### Hello there 👋 - I'm [Shafee](https://shafee.vercel.app/)
+### Hello there - I'm [Shafee](https://shafee.vercel.app/) 🧙‍♂️
 
 > _"It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set."_ — Gandalf
 
